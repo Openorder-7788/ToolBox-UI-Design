@@ -1,2 +1,11 @@
 # ToolBox-UI-Design
-An archival digital storytelling platform designed to solve the challenges of cross-platform AI usage and assist cultural creators in revitalizing cultural heritage. The platform enables the management of archival resources and facilitates collaborative creation using multimodal AI tools.
+一个档案数字叙事创作平台，旨在解决跨平台使用AI的问题，帮助文化创作工作者进行文化遗产活化利用。在该平台上可以实现档案资源的管理和多模态AI工具协作创作。
+
+版本：V1版本的仅作示意。
+
+-pdf文件：V1版本的全部原型设计
+-png文件：系统整体的功能架构图
+-vsdx文件：系统的数据流图
+
+-声明：
+本项目仅供个人学习和技术交流使用，不涉及任何商业用途。项目设计部分素材来源于Figma Community和iconfont网站的开源素材。项目中引用的部分图标/素材版权归原作者所有。如有侵权请联系删除。
